@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
-    "next": "12.1.4",
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "axios": "^0.27.2",
+    "next": "^12.1.7-canary.40",
+    "pnpm": "^7.1.7",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
